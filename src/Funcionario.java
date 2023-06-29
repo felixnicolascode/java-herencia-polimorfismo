@@ -4,7 +4,7 @@ public class Funcionario {
     private String documento;
     private double salario;
 
-    public Funcionario(){
+    public Funcionario() {
 
     }
 
@@ -30,5 +30,10 @@ public class Funcionario {
 
     public void setSalario(double salario) {
         this.salario = salario;
+    }
+
+    public double getBonificacion() {
+        return this.salario * 0.1;
+
     }
 }
