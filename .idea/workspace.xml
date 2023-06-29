@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70c42580-4852-45b1-8b57-3ae24555cee8" name="Changes" comment="Proyecto bytebank-heredado - clase Gerente - atributos y metodos">
-      <change afterPath="$PROJECT_DIR$/src/TestGerente.java" afterDir="false" />
+    <list default="true" id="70c42580-4852-45b1-8b57-3ae24555cee8" name="Changes" comment="Proyecto bytebank- TestGerente- atributo tipo - getBonificacion">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestFuncionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestGerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestGerente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,13 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688060474128</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Proyecto bytebank- TestGerente- atributo tipo - getBonificacion">
+      <created>1688062091960</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688062091960</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Proyecto bytebank-heredado - clase Funcionario - Constructores y Getters y Setters" />
     <MESSAGE value="Proyecto bytebank-heredado - clase TestFuncionario - metodo getBonificacion" />
     <MESSAGE value="Proyecto bytebank-heredado - clase Gerente - atributos y metodos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proyecto bytebank-heredado - clase Gerente - atributos y metodos" />
+    <MESSAGE value="Proyecto bytebank- TestGerente- atributo tipo - getBonificacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto bytebank- TestGerente- atributo tipo - getBonificacion" />
   </component>
 </project>
