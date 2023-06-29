@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70c42580-4852-45b1-8b57-3ae24555cee8" name="Changes" comment="Proyecto bytebank-heredado - clase Funcionario - Constructores y Getters y Setters">
-      <change afterPath="$PROJECT_DIR$/src/TestFuncionario.java" afterDir="false" />
+    <list default="true" id="70c42580-4852-45b1-8b57-3ae24555cee8" name="Changes" comment="Proyecto bytebank-heredado - clase TestFuncionario - metodo getBonificacion">
+      <change afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,11 +68,19 @@
       <option name="project" value="LOCAL" />
       <updated>1688057563623</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Proyecto bytebank-heredado - clase TestFuncionario - metodo getBonificacion">
+      <created>1688059007155</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688059007155</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Proyecto bytebank-heredado - clase Funcionario - Constructores y Getters y Setters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proyecto bytebank-heredado - clase Funcionario - Constructores y Getters y Setters" />
+    <MESSAGE value="Proyecto bytebank-heredado - clase TestFuncionario - metodo getBonificacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto bytebank-heredado - clase TestFuncionario - metodo getBonificacion" />
   </component>
 </project>
