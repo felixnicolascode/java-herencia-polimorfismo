@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70c42580-4852-45b1-8b57-3ae24555cee8" name="Changes" comment="Proyecto bytebank - TestGerente - Metodo Super - getBonificacion">
+      <change afterPath="$PROJECT_DIR$/src/TestReferencias.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
@@ -39,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestGerente">
+  <component name="RunManager" selected="Application.TestReferencias">
     <configuration name="TestFuncionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestFuncionario" />
       <module name="bytebank-heredado" />
@@ -54,8 +55,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestReferencias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestReferencias" />
+      <module name="bytebank-heredado" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestReferencias" />
         <item itemvalue="Application.TestGerente" />
         <item itemvalue="Application.TestFuncionario" />
       </list>
@@ -112,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688085553347</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Proyecto bytebank - TestGerente - Metodo Super - getBonificacion">
+      <created>1688089279198</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688089279198</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

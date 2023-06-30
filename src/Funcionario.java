@@ -1,10 +1,12 @@
 public class Funcionario {
+    // atributos
     private String nombre;
 
     private String documento;
     private double salario;
     private int tipo;
 
+    // constructor
     public Funcionario() {
 
     }
