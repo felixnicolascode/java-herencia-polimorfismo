@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70c42580-4852-45b1-8b57-3ae24555cee8" name="Changes" comment="Proyecto bytebank - TestGerente - herencia - uso de extends">
+    <list default="true" id="70c42580-4852-45b1-8b57-3ae24555cee8" name="Changes" comment="Proyecto bytebank - TestGerente - Metodo Super - getBonificacion">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
@@ -39,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestFuncionario">
+  <component name="RunManager" selected="Application.TestGerente">
     <configuration name="TestFuncionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestFuncionario" />
       <module name="bytebank-heredado" />
@@ -56,8 +56,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestFuncionario" />
         <item itemvalue="Application.TestGerente" />
+        <item itemvalue="Application.TestFuncionario" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688062757385</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Proyecto bytebank - TestGerente - Metodo Super - getBonificacion">
+      <created>1688085553347</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688085553347</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -114,6 +121,7 @@
     <MESSAGE value="Proyecto bytebank-heredado - clase Gerente - atributos y metodos" />
     <MESSAGE value="Proyecto bytebank- TestGerente- atributo tipo - getBonificacion" />
     <MESSAGE value="Proyecto bytebank - TestGerente - herencia - uso de extends" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proyecto bytebank - TestGerente - herencia - uso de extends" />
+    <MESSAGE value="Proyecto bytebank - TestGerente - Metodo Super - getBonificacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto bytebank - TestGerente - Metodo Super - getBonificacion" />
   </component>
 </project>
