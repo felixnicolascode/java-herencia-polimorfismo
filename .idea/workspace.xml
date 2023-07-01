@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70c42580-4852-45b1-8b57-3ae24555cee8" name="Changes" comment="Proyecto bytebank - TestGerente - Metodo Super - getBonificacion">
-      <change afterPath="$PROJECT_DIR$/src/TestReferencias.java" afterDir="false" />
+    <list default="true" id="70c42580-4852-45b1-8b57-3ae24555cee8" name="Changes" comment="Proyecto bytebank - TestReferencias - Polimorfismo">
+      <change afterPath="$PROJECT_DIR$/src/Contador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlBonificacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestControlBonificacion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestReferencias">
+  <component name="RunManager" selected="Application.TestControlBonificacion">
+    <configuration name="TestControlBonificacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestControlBonificacion" />
+      <module name="bytebank-heredado" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestFuncionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestFuncionario" />
       <module name="bytebank-heredado" />
@@ -64,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestControlBonificacion" />
         <item itemvalue="Application.TestReferencias" />
         <item itemvalue="Application.TestGerente" />
         <item itemvalue="Application.TestFuncionario" />
@@ -128,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688089279198</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Proyecto bytebank - TestReferencias - Polimorfismo">
+      <created>1688162971449</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688162971449</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -138,6 +153,7 @@
     <MESSAGE value="Proyecto bytebank- TestGerente- atributo tipo - getBonificacion" />
     <MESSAGE value="Proyecto bytebank - TestGerente - herencia - uso de extends" />
     <MESSAGE value="Proyecto bytebank - TestGerente - Metodo Super - getBonificacion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proyecto bytebank - TestGerente - Metodo Super - getBonificacion" />
+    <MESSAGE value="Proyecto bytebank - TestReferencias - Polimorfismo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto bytebank - TestReferencias - Polimorfismo" />
   </component>
 </project>
