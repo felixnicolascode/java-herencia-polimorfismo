@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70c42580-4852-45b1-8b57-3ae24555cee8" name="Changes" comment="Proyecto bytebank - TestReferencias - Polimorfismo">
-      <change afterPath="$PROJECT_DIR$/src/Contador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControlBonificacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestControlBonificacion.java" afterDir="false" />
+    <list default="true" id="70c42580-4852-45b1-8b57-3ae24555cee8" name="Changes" comment="Proyecto bytebank - Clase Contador - Herencia - Polimorfismo - Referencias">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688162971449</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Proyecto bytebank - Clase Contador - Herencia - Polimorfismo - Referencias">
+      <created>1688231281468</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1688231281468</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,6 +160,7 @@
     <MESSAGE value="Proyecto bytebank - TestGerente - herencia - uso de extends" />
     <MESSAGE value="Proyecto bytebank - TestGerente - Metodo Super - getBonificacion" />
     <MESSAGE value="Proyecto bytebank - TestReferencias - Polimorfismo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proyecto bytebank - TestReferencias - Polimorfismo" />
+    <MESSAGE value="Proyecto bytebank - Clase Contador - Herencia - Polimorfismo - Referencias" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto bytebank - Clase Contador - Herencia - Polimorfismo - Referencias" />
   </component>
 </project>
