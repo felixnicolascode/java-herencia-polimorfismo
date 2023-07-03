@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70c42580-4852-45b1-8b57-3ae24555cee8" name="Changes" comment="Proyecto bytebank - Funcionario - Clases abstractas">
+    <list default="true" id="70c42580-4852-45b1-8b57-3ae24555cee8" name="Changes" comment="Proyecto bytebank - Funcionario - Metodos abstractos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cuenta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688349334551</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Proyecto bytebank - Funcionario - Metodos abstractos">
+      <created>1688406133409</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1688406133409</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,6 +213,7 @@
     <MESSAGE value="Proyecto bytebank - Clase Cliente - Clase CuentaAhorro - Cuenta Corriente" />
     <MESSAGE value="Proyecto bytebank - Clase Cliente - Clase CuentaAhorro - Cuenta Corriente - Test Cuenta - Sobreescritura de metodos - Polimorfismo" />
     <MESSAGE value="Proyecto bytebank - Funcionario - Clases abstractas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proyecto bytebank - Funcionario - Clases abstractas" />
+    <MESSAGE value="Proyecto bytebank - Funcionario - Metodos abstractos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto bytebank - Funcionario - Metodos abstractos" />
   </component>
 </project>
