@@ -39,10 +39,9 @@ public class Cuenta {
         }
     }
 
-    public boolean trasferir(double valor, Cuenta cuenta) {
+    public boolean transferir(double valor, Cuenta cuenta) {
         if (this.saldo >= valor) {
-            this.saldo = this.saldo - valor;
-            //cuenta.saldo = cuenta.saldo + valor;
+            this.retirar(valor);
             cuenta.depositar(valor);
             return true;
         } else {
