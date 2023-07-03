@@ -2,7 +2,7 @@ public class TestReferencias {
     public static void main(String[] args) {
         // elemento generico puede ser adaptado al elemento mas especifico
 
-        Funcionario funcionario = new Funcionario();
+        Funcionario funcionario = new Contador();
         funcionario.setNombre("Diego");
 
         Gerente gerente = new Gerente();
