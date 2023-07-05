@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70c42580-4852-45b1-8b57-3ae24555cee8" name="Changes" comment="Proyecto bytebank - Funcionario - Metodos abstractos - Cuenta Abstracta">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Administrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Autenticable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SistemaInterno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestSistemaInterno.java" afterDir="false" />
+    <list default="true" id="70c42580-4852-45b1-8b57-3ae24555cee8" name="Changes" comment="Proyecto bytebank - Autenticable - Implementación - Interfaces">
+      <change afterPath="$PROJECT_DIR$/src/AutenticacionUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CuentaCorriente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CuentaCorriente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestControlBonificacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestControlBonificacion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +32,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/dev/Java Orientado a Objetos G5 - ONE/Java OO - Entendiendo la Orientación a Objetos/proyecto-bytebank"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/dev/Java Orientado a Objetos G5 - ONE/Java OO - Entendiendo la Orientación a Objetos/proyecto-bytebank&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -213,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688409115861</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Proyecto bytebank - Autenticable - Implementación - Interfaces">
+      <created>1688575838221</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1688575838221</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -231,6 +230,7 @@
     <MESSAGE value="Proyecto bytebank - Funcionario - Clases abstractas" />
     <MESSAGE value="Proyecto bytebank - Funcionario - Metodos abstractos" />
     <MESSAGE value="Proyecto bytebank - Funcionario - Metodos abstractos - Cuenta Abstracta" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proyecto bytebank - Funcionario - Metodos abstractos - Cuenta Abstracta" />
+    <MESSAGE value="Proyecto bytebank - Autenticable - Implementación - Interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto bytebank - Autenticable - Implementación - Interfaces" />
   </component>
 </project>
