@@ -4,7 +4,7 @@ public class TestControlBonificacion {
         diego.setSalario(2000);
 
         Gerente jimena = new Gerente();
-        jimena.setSalario(10000);
+        //jimena.setSalario(10000);
 
         ControlBonificacion controlBonificacion = new ControlBonificacion();
 

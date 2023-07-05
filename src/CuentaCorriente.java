@@ -5,6 +5,11 @@ public class CuentaCorriente extends Cuenta{
     }
 
     @Override
+    public void depositar(double valor) {
+
+    }
+
+    @Override
     public boolean retirar(double valor) {
         double comision = 0.2;
         return super.retirar(valor + comision);

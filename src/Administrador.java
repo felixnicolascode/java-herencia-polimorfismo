@@ -1,10 +1,10 @@
-public class Gerente extends Funcionario implements Autenticable {
+public class Administrador extends Funcionario implements Autenticable {
 
 
-    // sobreescritura del metodo
+    private String clave;
+
     public double getBonificacion() {
-        System.out.println("EJECUTANDO DESDE GERENTE");
-        return 2000;
+        return 0;
     }
 
     @Override
@@ -14,6 +14,9 @@ public class Gerente extends Funcionario implements Autenticable {
 
     @Override
     public boolean iniciarSesion(String clave) {
+        if(this.clave == clave){
+            return true;
+        }
         return false;
     }
 }
