@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70c42580-4852-45b1-8b57-3ae24555cee8" name="Changes" comment="Proyecto bytebank - Autenticable - Implementación - Interfaces">
-      <change afterPath="$PROJECT_DIR$/src/AutenticacionUtil.java" afterDir="false" />
+    <list default="true" id="70c42580-4852-45b1-8b57-3ae24555cee8" name="Changes" comment="Proyecto bytebank - AutenticacionUtil - Revisión de herencia">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Administrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Administrador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688575838221</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Proyecto bytebank - AutenticacionUtil - Revisión de herencia">
+      <created>1688577228798</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1688577228799</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -231,6 +239,7 @@
     <MESSAGE value="Proyecto bytebank - Funcionario - Metodos abstractos" />
     <MESSAGE value="Proyecto bytebank - Funcionario - Metodos abstractos - Cuenta Abstracta" />
     <MESSAGE value="Proyecto bytebank - Autenticable - Implementación - Interfaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proyecto bytebank - Autenticable - Implementación - Interfaces" />
+    <MESSAGE value="Proyecto bytebank - AutenticacionUtil - Revisión de herencia" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto bytebank - AutenticacionUtil - Revisión de herencia" />
   </component>
 </project>
