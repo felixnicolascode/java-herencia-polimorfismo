@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70c42580-4852-45b1-8b57-3ae24555cee8" name="Changes" comment="Proyecto bytebank - AutenticacionUtil - Revisión de herencia">
+    <list default="true" id="70c42580-4852-45b1-8b57-3ae24555cee8" name="Changes" comment="Proyecto bytebank - AutenticacionUtil - Composición de objetos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Administrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Administrador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688577228799</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Proyecto bytebank - AutenticacionUtil - Composición de objetos">
+      <created>1688579945380</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1688579945380</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -240,6 +245,7 @@
     <MESSAGE value="Proyecto bytebank - Funcionario - Metodos abstractos - Cuenta Abstracta" />
     <MESSAGE value="Proyecto bytebank - Autenticable - Implementación - Interfaces" />
     <MESSAGE value="Proyecto bytebank - AutenticacionUtil - Revisión de herencia" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proyecto bytebank - AutenticacionUtil - Revisión de herencia" />
+    <MESSAGE value="Proyecto bytebank - AutenticacionUtil - Composición de objetos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto bytebank - AutenticacionUtil - Composición de objetos" />
   </component>
 </project>
