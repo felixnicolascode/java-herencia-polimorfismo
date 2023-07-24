@@ -1,12 +1,12 @@
-package bytebank.test;
+package com.bytebank.test;
 
-import bytebank.modelo.Gerente;
+import com.bytebank.modelo.Gerente;
 
 public class TestGerente {
     public static void main(String[] args) {
         Gerente gerente = new Gerente();
         // gerente.setSalario(5000);
-        //bytebank.modelo.Funcionario gerente = new bytebank.modelo.Funcionario();
+        //com.bytebank.modelo.Funcionario gerente = new com.bytebank.modelo.Funcionario();
         gerente.setSalario(6000);
         gerente.setClave("AluraCursosOnline");
 
