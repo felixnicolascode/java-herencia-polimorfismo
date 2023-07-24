@@ -1,3 +1,5 @@
+package bytebank.modelo;
+
 public class AutenticacionUtil {
     private String clave;
     public boolean iniciarSesion(String clave){

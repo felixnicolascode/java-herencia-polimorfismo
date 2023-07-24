@@ -1,3 +1,5 @@
+package bytebank.modelo;
+
 // entidad cuenta
 public abstract class Cuenta {
     // atributos

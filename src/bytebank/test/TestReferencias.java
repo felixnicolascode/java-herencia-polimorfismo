@@ -1,3 +1,9 @@
+package bytebank.test;
+
+import bytebank.modelo.Contador;
+import bytebank.modelo.Funcionario;
+import bytebank.modelo.Gerente;
+
 public class TestReferencias {
     public static void main(String[] args) {
         // elemento generico puede ser adaptado al elemento mas especifico

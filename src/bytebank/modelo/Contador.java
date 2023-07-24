@@ -1,3 +1,5 @@
+package bytebank.modelo;
+
 public class Contador extends Funcionario{
 
     public double getBonificacion() {

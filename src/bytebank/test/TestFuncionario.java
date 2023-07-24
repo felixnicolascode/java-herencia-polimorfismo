@@ -1,3 +1,8 @@
+package bytebank.test;
+
+import bytebank.modelo.Contador;
+import bytebank.modelo.Funcionario;
+
 public class TestFuncionario {
     public static void main(String[] args) {
         Funcionario diego = new Contador();

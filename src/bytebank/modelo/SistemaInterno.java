@@ -1,3 +1,5 @@
+package bytebank.modelo;
+
 public class SistemaInterno {
 
     private String clave = "AluraCursosOnline";

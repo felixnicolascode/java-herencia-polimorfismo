@@ -1,3 +1,5 @@
+package bytebank.modelo;
+
 public class Gerente extends Funcionario implements Autenticable {
 
 
