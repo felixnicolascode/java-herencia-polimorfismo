@@ -1,4 +1,7 @@
-package com.bytebank.modelo;
+package com.bytebank.modelo.cliente;
+
+import com.bytebank.modelo.Autenticable;
+import com.bytebank.modelo.AutenticacionUtil;
 
 public class Cliente implements Autenticable {
     private String nombre;

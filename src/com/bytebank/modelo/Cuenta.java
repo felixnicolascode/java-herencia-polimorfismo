@@ -1,5 +1,7 @@
 package com.bytebank.modelo;
 
+import com.bytebank.modelo.cliente.Cliente;
+
 // entidad cuenta
 public abstract class Cuenta {
     // atributos
