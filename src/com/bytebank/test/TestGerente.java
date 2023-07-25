@@ -6,7 +6,7 @@ public class TestGerente {
     public static void main(String[] args) {
         Gerente gerente = new Gerente();
         // gerente.setSalario(5000);
-        //com.bytebank.modelo.Funcionario gerente = new com.bytebank.modelo.Funcionario();
+        //modelo.Funcionario gerente = new modelo.Funcionario();
         gerente.setSalario(6000);
         gerente.setClave("AluraCursosOnline");
 

@@ -6,7 +6,7 @@ import com.bytebank.modelo.CuentaCorriente;
 public class TestCuenta {
     public static void main(String[] args) {
         CuentaCorriente cc = null;
-        //com.bytebank.modelo.CuentaCorriente cc = new com.bytebank.modelo.CuentaCorriente(1,1);
+        //modelo.CuentaCorriente cc = new modelo.CuentaCorriente(1,1);
         CuentaAhorro ca = new CuentaAhorro(2,3);
         int num=0;
         int resultado=30/num;
