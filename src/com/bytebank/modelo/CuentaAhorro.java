@@ -11,5 +11,9 @@ public class CuentaAhorro extends Cuenta{
         this.saldo = this.saldo+valor;
     }
 
+    public String toString(){
+        return super.toString();
+    }
+
 
 }

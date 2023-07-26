@@ -26,12 +26,13 @@ public class TestString {
         printLine("Indice: " +indice);*/
     }
     public static void printLine(Object valor){
-        System.out.println(valor);
+        System.out.println(valor.toString());
     }
-    public static void printLine(String valor){
+    /*public static void printLine(String valor){
         System.out.println(valor);
     }
     public static void printLine(char valor){
         System.out.println(valor);
-    }
+    }*/
+
 }
