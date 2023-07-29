@@ -10,7 +10,7 @@ public class Cliente implements Autenticable {
 
     private AutenticacionUtil util;
 
-    public Cliente(AutenticacionUtil util) {
+    public Cliente(/*AutenticacionUtil util*/) {
         this.util = util;
     }
 
