@@ -4,7 +4,6 @@ package com.bytebank.modelo;
  *
  * @version 1.0
  * @author felixmorales
- *
  */
 
 import com.bytebank.modelo.cliente.Cliente;
@@ -25,8 +24,10 @@ public abstract class Cuenta {
     public Cuenta() {
 
     }
+
     /**
      * Instancia una nueva cuenta usando agencia y numero
+     *
      * @param agencia
      * @param numero
      */
@@ -50,22 +51,23 @@ public abstract class Cuenta {
     /**
      * Este metodo retira dinero de la cuenta y si ocurre un error
      * devuelve una excepcion
+     *
      * @param valor
      * @throws SaldoInsuficienteException
      */
 
-    public void retirar(double valor) throws SaldoInsuficienteException{
-        if(this.saldo < valor){
+    public void retirar(double valor) throws SaldoInsuficienteException {
+        if (this.saldo < valor) {
             throw new SaldoInsuficienteException("No tienes saldo");
         }
         this.saldo -= valor;
     }
 
-    public boolean transferir (double valor, Cuenta cuenta) {
+    public boolean transferir(double valor, Cuenta cuenta) {
         if (this.saldo >= valor) {
-            try{
+            try {
                 this.transferir(valor, cuenta);
-            } catch (SaldoInsuficienteException e){
+            } catch (SaldoInsuficienteException e) {
                 e.printStackTrace();
             }
             cuenta.depositar(valor);
@@ -111,9 +113,15 @@ public abstract class Cuenta {
         return Cuenta.total;
     }
 
-    public String toString(){
-        String cuenta = "Numero: "+this.numero+", Agencia: "+ this.agencia;
+    public String toString() {
+        String cuenta = "Numero: " + this.numero + ", Agencia: " + this.agencia;
         return cuenta;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        Cuenta cuenta = (Cuenta) obj;
+        return this.agencia == cuenta.getAgencia() && this.numero == cuenta.getNumero();
     }
 
 
