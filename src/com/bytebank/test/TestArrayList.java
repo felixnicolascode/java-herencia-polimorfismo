@@ -5,6 +5,7 @@ import com.bytebank.modelo.CuentaCorriente;
 import com.bytebank.modelo.cliente.Cliente;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.LinkedList;
 import java.util.List;
 
