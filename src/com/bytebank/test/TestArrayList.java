@@ -30,5 +30,10 @@ public class TestArrayList {
             System.out.println(cuenta);
         }
 
+        boolean contiene = lista.contains(cc);
+        if(contiene){
+            System.out.println("Si");
+        }
+
     }
 }
